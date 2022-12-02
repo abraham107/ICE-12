@@ -1,0 +1,16 @@
+{
+  "name": "comp2112-f2022-ice12",
+  "version": "0.0.1",
+  "description": "NodeJS Demo Project for COMP2112 in the Fall 2022 Semester @ Georgian College",
+  "main": "server.js",
+  "author": "Abraham Samuel",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "@types/mime-types": "^2.1.1",
+    "@types/node": "^18.11.9",
+    "mime-types": "^2.1.35"
+  }
+}
